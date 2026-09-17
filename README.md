@@ -5,7 +5,26 @@
     <img src="assets/header-duo.svg" width="100%" alt="Chandra's Profile Header" />
   </a>
 
-  <br /><br />
+  <!-- 4 Chunky 3D Pushable Quick-Action Buttons -->
+  <p align="center">
+    <a href="#featured-projects">
+      <img src="assets/btn-projects.svg" height="42" alt="View Projects" />
+    </a>
+    &nbsp;
+    <a href="#tech-arsenal">
+      <img src="assets/btn-techstack.svg" height="42" alt="Tech Arsenal" />
+    </a>
+    &nbsp;
+    <a href="mailto:chandradjhon@gmail.com">
+      <img src="assets/btn-contact.svg" height="42" alt="Contact Me" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/channdraa-afk?tab=repositories" target="_blank">
+      <img src="assets/btn-repos.svg" height="42" alt="All Repositories" />
+    </a>
+  </p>
+
+  <br />
 
   <!-- Live Typing Terminal SVG -->
   <p align="center">
@@ -13,12 +32,14 @@
   </p>
 
   <p align="center">
-    <i>"Bridging intelligent algorithms with tactile, delightful human experiences. Passionate RPL student exploring the full spectrum of software engineering."</i>
+    <i>"Bridging intelligent algorithms with tactile, delightful human experiences. Dedicated to mastering full-spectrum engineering from systems architecture to multimodal AI."</i>
   </p>
 
 </div>
 
 <br />
+
+<div id="featured-projects"></div>
 
 ## 🚀 Featured Project Spotlight
 
@@ -46,6 +67,8 @@
 </div>
 
 <br />
+
+<div id="tech-arsenal"></div>
 
 ## 🛠️ Technical Arsenal
 

@@ -1,0 +1,13 @@
+<svg width="205" height="48" viewBox="0 0 205 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&amp;display=swap');
+      .btn-label { font-family: 'Nunito', sans-serif; font-weight: 900; font-size: 13.5px; fill: #FFFFFF; letter-spacing: 0.5px; text-anchor: middle; dominant-baseline: middle; }
+    </style>
+  </defs>
+  <!-- 3D Rim -->
+  <rect x="0" y="5" width="205" height="43" rx="16" fill="#E5A500" />
+  <!-- Body -->
+  <rect x="0" y="0" width="205" height="43" rx="16" fill="#FFC800" />
+  <text x="102" y="22" class="btn-label">🔥 ALL REPOSITORIES</text>
+</svg>
