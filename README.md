@@ -7,21 +7,10 @@
 
   <!-- 4 Chunky 3D Pushable Quick-Action Buttons -->
   <p align="center">
-    <a href="#featured-projects">
-      <img src="assets/btn-projects.svg" height="42" alt="View Projects" />
-    </a>
-    &nbsp;
-    <a href="#tech-arsenal">
-      <img src="assets/btn-techstack.svg" height="42" alt="Tech Arsenal" />
-    </a>
-    &nbsp;
-    <a href="mailto:chandradjhon@gmail.com">
-      <img src="assets/btn-contact.svg" height="42" alt="Contact Me" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/channdraa-afk?tab=repositories" target="_blank">
-      <img src="assets/btn-repos.svg" height="42" alt="All Repositories" />
-    </a>
+    <a href="#featured-projects"><img src="assets/btn-projects.svg" height="42" alt="View Projects" /></a>&nbsp;
+    <a href="#tech-arsenal"><img src="assets/btn-techstack.svg" height="42" alt="Tech Arsenal" /></a>&nbsp;
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=chandradjhon@gmail.com&amp;su=Collaboration%20Inquiry%20-%20Chandra%20Portfolio" target="_blank"><img src="assets/btn-contact.svg" height="42" alt="Contact Me" /></a>&nbsp;
+    <a href="https://github.com/channdraa-afk?tab=repositories" target="_blank"><img src="assets/btn-repos.svg" height="42" alt="All Repositories" /></a>
   </p>
 
   <br />
@@ -170,8 +159,8 @@
 
 <div align="center">
   <p><b>Let's build something extraordinary together!</b></p>
-  <a href="mailto:chandradjhon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chandradjhon%40gmail.com-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Work" />
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=chandradjhon@gmail.com&amp;su=Collaboration%20Inquiry%20-%20Chandra%20Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-chandradjhon%40gmail.com-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Work" />
   </a>
   <a href="https://github.com/channdraa-afk">
     <img src="https://img.shields.io/badge/GitHub-channdraa--afk-2E383D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
