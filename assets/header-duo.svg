@@ -1,0 +1,55 @@
+<svg width="860" height="210" viewBox="0 0 860 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&amp;display=swap');
+      .duo-title { font-family: 'Nunito', sans-serif; font-weight: 900; font-size: 32px; fill: #FFFFFF; }
+      .duo-sub { font-family: 'Nunito', sans-serif; font-weight: 700; font-size: 15px; fill: #A5B4BA; }
+      .duo-badge { font-family: 'Nunito', sans-serif; font-weight: 900; font-size: 13px; fill: #FFFFFF; letter-spacing: 0.5px; text-anchor: middle; dominant-baseline: middle; }
+    </style>
+  </defs>
+
+  <!-- 3D Card Base (Shadow Rim) -->
+  <rect x="2" y="8" width="856" height="198" rx="24" fill="#131F24" />
+  <!-- 3D Card Front Body -->
+  <rect x="2" y="2" width="856" height="198" rx="24" fill="#1B272C" stroke="#2E383D" stroke-width="2.5" />
+
+  <!-- Avatar Circle Icon Placeholder -->
+  <g transform="translate(36, 34)">
+    <rect x="0" y="5" width="64" height="64" rx="20" fill="#1899D6" />
+    <rect x="0" y="0" width="64" height="64" rx="20" fill="#1CB0F6" stroke="#FFFFFF" stroke-width="2" />
+    <text x="32" y="38" font-family="'Nunito', sans-serif" font-weight="900" font-size="28" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+  </g>
+
+  <!-- Greetings & Title -->
+  <text x="120" y="62" class="duo-title">Hi, I'm Chandra! 👋</text>
+  <text x="120" y="88" class="duo-sub">Software Engineering Student (RPL) • AI, ML &amp; Systems Pioneer</text>
+
+  <!-- Chunky 3D Badges (Duolingo Style Pills) -->
+  <!-- Pill 1: RPL Student (Green) -->
+  <g transform="translate(36, 128)">
+    <rect x="0" y="5" width="220" height="42" rx="16" fill="#46A302" />
+    <rect x="0" y="0" width="220" height="42" rx="16" fill="#58CC02" />
+    <text x="110" y="22" class="duo-badge">⚡ XI RPL STUDENT</text>
+  </g>
+
+  <!-- Pill 2: AI & ML Explorer (Purple) -->
+  <g transform="translate(272, 128)">
+    <rect x="0" y="5" width="240" height="42" rx="16" fill="#A560DB" />
+    <rect x="0" y="0" width="240" height="42" rx="16" fill="#CE82FF" />
+    <text x="120" y="22" class="duo-badge">🧠 AI &amp; ML EXPLORER</text>
+  </g>
+
+  <!-- Pill 3: Tactile Artisan (Blue) -->
+  <g transform="translate(528, 128)">
+    <rect x="0" y="5" width="210" height="42" rx="16" fill="#1899D6" />
+    <rect x="0" y="0" width="210" height="42" rx="16" fill="#1CB0F6" />
+    <text x="105" y="22" class="duo-badge">🛠️ TACTILE ARTISAN</text>
+  </g>
+
+  <!-- Pill 4: Streak/Active (Yellow) -->
+  <g transform="translate(754, 128)">
+    <rect x="0" y="5" width="70" height="42" rx="16" fill="#E5A500" />
+    <rect x="0" y="0" width="70" height="42" rx="16" fill="#FFC800" />
+    <text x="35" y="22" class="duo-badge">🔥 ON</text>
+  </g>
+</svg>

@@ -1,26 +1,20 @@
 <div align="center">
 
-# Hi there, I'm Chandra! 👋
-### Software Engineering Student • AI & Intelligent Systems Explorer • Modern Pioneer
-
-<p align="center">
+  <!-- Duolingo Tactile Hero Header -->
   <a href="https://github.com/channdraa-afk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%A7%A0+Exploring+AI%2C+Machine+Learning%2C+DL+%26+LLMs;%E2%9A%A1+Software+Engineering+Student+(RPL)+%26+Modern+Pioneer;%F0%9F%9B%A0%EF%8F%84+Crafting+tactile+web+apps+%26+high-performance+systems;%E2%9C%A8+Bridging+AI+capabilities+into+real-world+products;%F0%9F%8C%B1+Lifelong+learner+refining+system+craftsmanship" alt="Typing SVG" />
+    <img src="assets/header-duo.svg" width="100%" alt="Chandra's Profile Header" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20SYSTEMS-6366F1?style=for-the-badge&labelColor=0F172A" alt="Focus Badge" />
-  <img src="https://img.shields.io/badge/ACADEMIC-XI%20RPL%20STUDENT-059669?style=for-the-badge&labelColor=0F172A" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/LOCATION-INDONESIA-E11D48?style=for-the-badge&labelColor=0F172A" alt="Location Badge" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLABS-0284C7?style=for-the-badge&labelColor=0F172A" alt="Status Badge" />
-</p>
+  <br /><br />
 
----
+  <!-- Live Typing Terminal SVG -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&height=45&lines=%F0%9F%A7%A0+Exploring+AI%2C+Machine+Learning%2C+DL+%26+LLMs;%E2%9A%A1+Software+Engineering+Student+(RPL)+%26+Modern+Pioneer;%F0%9F%9B%A0%EF%8F%84+Crafting+tactile+web+apps+%26+high-performance+systems;%E2%9C%A8+Bridging+AI+capabilities+into+real-world+products;%F0%9F%8C%B1+Lifelong+learner+refining+system+craftsmanship" alt="Typing SVG" />
+  </p>
 
-<p align="center">
-  <i>"Passionate in bridging the gap between intelligent algorithms and delightful, tactile human interfaces. Dedicated to mastering full-spectrum engineering—from fundamental low-level architectures to cutting-edge AI orchestration."</i>
-</p>
+  <p align="center">
+    <i>"Bridging intelligent algorithms with tactile, delightful human experiences. Passionate RPL student exploring the full spectrum of software engineering."</i>
+  </p>
 
 </div>
 
@@ -28,51 +22,28 @@
 
 ## 🚀 Featured Project Spotlight
 
-<table>
+<table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🧠 <a href="https://github.com/channdraa-afk/Memony">Memony</a></h3>
-      <p><b>AI Tactile Expense & Receipt Memory Ledger</b></p>
-      <p>A smart personal financial companion combining tactile interaction with multimodal AI. Features instant receipt scanning, intelligent item-level OCR extraction, and responsive PWA ledger experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Gemini%20Vision-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web%20Audio-000000?style=flat-square" />
-      </p>
-      <p>👉 <a href="https://github.com/channdraa-afk/Memony"><b>View Repository & Documentation →</b></a></p>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/channdraa-afk/Memony">
+        <img src="assets/card-memony.svg" width="100%" alt="Memony Card" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">⚡ <a href="https://github.com/channdraa-afk/Stallmate">Stallmate</a></h3>
-      <p><b>Tactile Pop-up Stall & Cashier Companion</b></p>
-      <p>Realtime cashier and queue orchestration engine designed for pop-up culinary stalls and school bazaars. Built with live kitchen display (KDS), automated WhatsApp order notifications, and pure synthesized tactile audio feedback.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Fonnte%20WA-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-      </p>
-      <p>👉 <a href="https://github.com/channdraa-afk/Stallmate"><b>View Repository & Documentation →</b></a></p>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/channdraa-afk/Stallmate">
+        <img src="assets/card-stallmate.svg" width="100%" alt="Stallmate Card" />
+      </a>
     </td>
   </tr>
 </table>
 
 <br />
 
-## 🧠 AI, Machine Learning & Systems Horizon
+## 🧠 AI & Intelligent Systems Horizon
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  • Deep Learning & Neural Architectures                                │
-│    Exploring tensor computations, neural layers, and representation    │
-│                                                                        │
-│  • Large Language Models & Multimodal Reasoning                        │
-│    Prompt engineering, function calling, RAG pipelines, & Gemini APIs  │
-│                                                                        │
-│  • Data Science & Applied Analytics                                    │
-│    Data munging, Exploratory Data Analysis (EDA), and vector math      │
-└────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="assets/ai-spectrum.svg" width="100%" alt="AI Horizon Quest" />
+</div>
 
 <br />
 
@@ -131,14 +102,11 @@
 
 <br />
 
-## 🤝 Open Source & Community Contributions
+## 🤝 Open Source & Collaborations
 
 <p align="left">
-  <i>Belief in open-source collaboration and collective craftsmanship. Currently preparing and actively contributing to ecosystem tools, AI packages, and developer utilities.</i>
+  <i>Belief in open craftsmanship and active community building. Open for collaborations on AI experiments, high-performance web systems, or developer tooling.</i>
 </p>
-
-<!-- Curated list of merged pull requests and external repo collaborations will be highlighted here -->
-> 💡 *Interested in collaborating on AI experiments, high-performance web systems, or open-source libraries? Feel free to reach out or ping me!*
 
 <br />
 
@@ -148,17 +116,17 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=channdraa-afk&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=10B981" alt="GitHub Stats" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api?username=channdraa-afk&show_icons=true&theme=tokyonight&hide_border=false&border_color=2E383D&bg_color=1B272C&title_color=38BDF8&text_color=A5B4BA&icon_color=58CC02" alt="GitHub Stats" height="165" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&theme=tokyonight&hide_border=false&border_color=30363D&background=0D1117&stroke=38BDF8&ring=10B981&fire=F59E0B&currStreakLabel=10B981" alt="GitHub Streak" height="165" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&theme=tokyonight&hide_border=false&border_color=2E383D&background=1B272C&stroke=38BDF8&ring=58CC02&fire=FFC800&currStreakLabel=58CC02" alt="GitHub Streak" height="165" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=channdraa-afk&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=channdraa-afk&layout=compact&theme=tokyonight&hide_border=false&border_color=2E383D&bg_color=1B272C&title_color=38BDF8&text_color=A5B4BA" alt="Top Languages" />
 </div>
 
 <br />
@@ -179,10 +147,10 @@
 
 <div align="center">
   <p><b>Let's build something extraordinary together!</b></p>
-  <a href="mailto:iamchan761@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iamchan761%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:chandradjhon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chandradjhon%40gmail.com-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Work" />
   </a>
   <a href="https://github.com/channdraa-afk">
-    <img src="https://img.shields.io/badge/GitHub-channdraa--afk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-channdraa--afk-2E383D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </div>

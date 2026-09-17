@@ -1,0 +1,57 @@
+<svg width="860" height="175" viewBox="0 0 860 175" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&amp;display=swap');
+      .quest-header { font-family: 'Nunito', sans-serif; font-weight: 900; font-size: 15px; fill: #A5B4BA; letter-spacing: 1px; }
+      .node-title { font-family: 'Nunito', sans-serif; font-weight: 900; font-size: 14px; fill: #FFFFFF; }
+      .node-desc { font-family: 'Nunito', sans-serif; font-weight: 700; font-size: 12px; fill: #7E909A; }
+    </style>
+  </defs>
+
+  <!-- 3D Card Base (Shadow Rim) -->
+  <rect x="2" y="8" width="856" height="163" rx="22" fill="#131F24" />
+  <!-- 3D Card Front Body -->
+  <rect x="2" y="2" width="856" height="163" rx="22" fill="#1B272C" stroke="#2E383D" stroke-width="2.5" />
+
+  <text x="32" y="32" class="quest-header">🧠 AI &amp; INTELLIGENT SYSTEMS HORIZON</text>
+
+  <!-- Quest Node 1: Deep Learning -->
+  <g transform="translate(32, 52)">
+    <rect x="0" y="4" width="56" height="56" rx="18" fill="#A560DB" />
+    <rect x="0" y="0" width="56" height="56" rx="18" fill="#CE82FF" />
+    <text x="28" y="33" font-size="24" text-anchor="middle" dominant-baseline="middle">🌐</text>
+
+    <text x="68" y="24" class="node-title">Deep Learning &amp; Tensors</text>
+    <text x="68" y="44" class="node-desc">Neural architectures, representation learning, and tensor mathematics.</text>
+  </g>
+
+  <!-- Quest Node 2: LLMs & Multimodal -->
+  <g transform="translate(320, 52)">
+    <!-- Connecting Line -->
+  </g>
+
+  <g transform="translate(315, 52)">
+    <rect x="0" y="4" width="56" height="56" rx="18" fill="#E5A500" />
+    <rect x="0" y="0" width="56" height="56" rx="18" fill="#FFC800" />
+    <text x="28" y="33" font-size="24" text-anchor="middle" dominant-baseline="middle">✨</text>
+
+    <text x="68" y="24" class="node-title">LLMs &amp; Multimodal AI</text>
+    <text x="68" y="44" class="node-desc">Prompt engineering, Gemini Vision, function calling &amp; agentic loops.</text>
+  </g>
+
+  <!-- Quest Node 3: Systems & Data Science -->
+  <g transform="translate(595, 52)">
+    <rect x="0" y="4" width="56" height="56" rx="18" fill="#1899D6" />
+    <rect x="0" y="0" width="56" height="56" rx="18" fill="#1CB0F6" />
+    <text x="28" y="33" font-size="24" text-anchor="middle" dominant-baseline="middle">⚡</text>
+
+    <text x="68" y="24" class="node-title">Systems &amp; Data Science</text>
+    <text x="68" y="44" class="node-desc">Applied EDA, vector databases, and resilient fullstack orchestration.</text>
+  </g>
+
+  <!-- Progress Bar Duolingo -->
+  <g transform="translate(32, 134)">
+    <rect x="0" y="0" width="796" height="12" rx="6" fill="#2E383D" />
+    <rect x="0" y="0" width="540" height="12" rx="6" fill="#58CC02" />
+  </g>
+</svg>
