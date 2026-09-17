@@ -3,11 +3,6 @@
   <!-- Everdeck Tactile Hero Header (Adaptive Dual-Theme) -->
   <a href="https://github.com/channdraa-afk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" /><img src="assets/header-dark.svg" width="100%" alt="Chandra's Profile Header" /></picture></a>
 
-  <!-- Theme Mode Indicator & Quick Switcher -->
-  <p align="center">
-    <a href="https://github.com/settings/appearance" target="_blank"><img src="https://img.shields.io/badge/Theme-System%20Adaptive%20(Dark%20%2F%20Light)-10B981?style=flat-square&logo=github&logoColor=white" alt="Theme Selector" /></a>
-  </p>
-
   <!-- 4 Chunky 3D Pushable Quick-Action Buttons (Everdeck Palette) -->
   <p align="center">
     <a href="#featured-projects"><img src="assets/btn-projects.svg" height="42" alt="View Projects" /></a>&nbsp;
@@ -119,9 +114,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;bg_color=18191E&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=10B981" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=default&amp;hide_border=false&amp;border_color=E2E8F0&amp;bg_color=FFFFFF&amp;title_color=0284C7&amp;text_color=475569&amp;icon_color=059669" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;bg_color=18191E&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=10B981" alt="GitHub Stats" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;bg_color=18191E&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=10B981&amp;hide_rank=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=default&amp;hide_border=false&amp;border_color=E2E8F0&amp;bg_color=FFFFFF&amp;title_color=0284C7&amp;text_color=475569&amp;icon_color=059669&amp;hide_rank=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;bg_color=18191E&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=10B981&amp;hide_rank=true" alt="GitHub Stats" height="165" />
   </picture>&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;background=18191E&amp;stroke=38BDF8&amp;ring=10B981&amp;fire=F59E0B&amp;currStreakLabel=10B981" />

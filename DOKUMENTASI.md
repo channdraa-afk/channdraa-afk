@@ -73,20 +73,20 @@ Animasi ular pemakan heatmap kontribusi GitHub diatur melalui GitHub Actions:
 8. `btn-repos.svg`: Tombol taktil ungu Everdeck 3D (`🔥 ALL REPOSITORIES`).
 
 ### C. Integrasi Pihak Ketiga & API Endpoints
-1. **GitHub Readme Stats Mirror (Dual-Theme Adaptive)**:
-   - Dark: `https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&theme=tokyonight&bg_color=18191E&border_color=2D3139`
-   - Light: `https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&theme=default&bg_color=FFFFFF&border_color=E2E8F0`
-2. **GitHub Readme Streak Stats (Dual-Theme Adaptive)**:
+1. **GitHub Readme Stats Mirror (Dual-Theme Adaptive & Clean Metrics)**:
+   - Dark: `https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&theme=tokyonight&bg_color=18191E&border_color=2D3139&hide_rank=true`
+   - Light: `https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&theme=default&bg_color=FFFFFF&border_color=E2E8F0&hide_rank=true`
+   - *Catatan Penting*: Menggunakan mirror aktif dan parameter `hide_rank=true` agar tidak menampilkan rating penilaian diri sendiri (A+).
+2. **GitHub Readme Streak Stats (Dual-Theme Adaptive & Live Counter)**:
    - Dark: `theme=tokyonight&background=18191E&border_color=2D3139`
    - Light: `theme=default&background=FFFFFF&border_color=E2E8F0`
+   - *Mekanisme Kerja*: Angka streak terupdate otomatis berdasarkan commit harian Chandra (bertambah +1 setiap hari jika ada minimal 1 commit sebelum 00:00 UTC, dan reset ke 0 jika absen).
 3. **Readme Typing SVG**:
    - Endpoint: `https://readme-typing-svg.demolab.com` dengan font Fira Code cyan `#38BDF8`.
 4. **Shields.io Badges**:
    - Badges tech stack dengan gaya `style=for-the-badge`.
 5. **Direct Web Compose Gmail**:
    - URL: `https://mail.google.com/mail/?view=cm&fs=1&to=chandradjhon@gmail.com&su=Collaboration%20Inquiry%20-%20Chandra%20Portfolio`
-6. **Appearance Settings Direct URL**:
-   - URL: `https://github.com/settings/appearance` (terhubung ke badge Theme Selector).
 
 ---
 
@@ -99,9 +99,10 @@ Animasi ular pemakan heatmap kontribusi GitHub diatur melalui GitHub Actions:
 | **Sesi Quick-Action** | 4 Tombol 3D Duolingo | Menghubungkan tombol ke anchor lokal dan direct email compose. | ✅ Selesai |
 | **Sesi Automasi Snake** | CI/CD GitHub Actions | Setup workflow `snake.yml` dengan push otomatis ke branch `output`. | ✅ Selesai |
 | **Sesi Debugging Kritis** | Perbaikan Bug Visual & API | 1. Memulihkan error 502 Bad Gateway dengan mengalihkan stats ke mirror aktif HTTP 200 OK.<br>2. Menghapus wrapper `<table>` pada kartu showcase dan menggantinya dengan `<p align="center">` responsif.<br>3. Menghilangkan whitespace di dalam tag `<a>` untuk memusnahkan artifact garis bawah biru (*underline glitch*).<br>4. Menyinkronkan target anchor heading `id="featured-projects"` dan `id="tech-arsenal"`. | ✅ Tuntas Sempurna |
-| **Sesi Dual-Theme Adaptif** | Jalan 1 & Palet Everdeck | 1. Menerapkan elemen `<picture>` adaptif preferensi OS/GitHub (`prefers-color-scheme`) pada seluruh komponen.<br>2. Mengharmonisasi 4 tombol 3D dengan palet resmi Everdeck (`#10B981`, `#0EA5E9`, `#F59E0B`, `#8B5CF6`).<br>3. Merilis varian SVG Dark (Everdeck Dark Slate `#18191E`) & Light (Crisp White `#FFFFFF`).<br>4. Menyematkan badge Theme Selector interaktif. | ✅ Tuntas Sempurna |
+| **Sesi Dual-Theme Adaptif** | Jalan 1 & Palet Everdeck | 1. Menerapkan elemen `<picture>` adaptif preferensi OS/GitHub (`prefers-color-scheme`) pada seluruh komponen.<br>2. Mengharmonisasi 4 tombol 3D dengan palet resmi Everdeck (`#10B981`, `#0EA5E9`, `#F59E0B`, `#8B5CF6`).<br>3. Merilis varian SVG Dark (Everdeck Dark Slate `#18191E`) & Light (Crisp White `#FFFFFF`). | ✅ Tuntas Sempurna |
+| **Sesi Pemurnian Visual** | Pembersihan Badge & Self-Rank | 1. Menghapus badge tema perantara yang mengganggu keindahan header.<br>2. Mengeliminasi lingkaran rating "A+" via `hide_rank=true` agar profil berfokus murni pada data kontribusi nyata. | ✅ Tuntas Sempurna |
 
-**Status Terkini**: Seluruh elemen visual adaptif (Dark/Light), tautan, automasi CI/CD, dan kartu statistik berfungsi 100% tanpa error.
+**Status Terkini**: Profil tampil bersih, adaptif sempurna, tanpa visual rating diri sendiri, dan siap produksi 100%.
 
 ---
 
