@@ -6,8 +6,8 @@
     </style>
   </defs>
   <!-- 3D Rim -->
-  <rect x="0" y="5" width="195" height="43" rx="16" fill="#1899D6" />
+  <rect x="0" y="5" width="195" height="43" rx="16" fill="#D97706" />
   <!-- Body -->
-  <rect x="0" y="0" width="195" height="43" rx="16" fill="#1CB0F6" />
+  <rect x="0" y="0" width="195" height="43" rx="16" fill="#F59E0B" />
   <text x="97" y="22" class="btn-label">📫 CONTACT ME</text>
 </svg>
