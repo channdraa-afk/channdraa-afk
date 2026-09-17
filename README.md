@@ -114,9 +114,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;bg_color=18191E&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=10B981&amp;hide_rank=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=default&amp;hide_border=false&amp;border_color=E2E8F0&amp;bg_color=FFFFFF&amp;title_color=0284C7&amp;text_color=475569&amp;icon_color=059669&amp;hide_rank=true" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;bg_color=18191E&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=10B981&amp;hide_rank=true" alt="GitHub Stats" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-companion-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-companion-light.svg" />
+    <img src="assets/card-companion-dark.svg" height="165" alt="Everdeck Companion" />
   </picture>&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;background=18191E&amp;stroke=38BDF8&amp;ring=10B981&amp;fire=F59E0B&amp;currStreakLabel=10B981" />
