@@ -1,9 +1,7 @@
 <div align="center">
 
   <!-- Duolingo Tactile Hero Header (Clean Cache-Busted) -->
-  <a href="https://github.com/channdraa-afk">
-    <img src="assets/header-clean.svg" width="100%" alt="Chandra's Profile Header" />
-  </a>
+  <a href="https://github.com/channdraa-afk"><img src="assets/header-clean.svg" width="100%" alt="Chandra's Profile Header" /></a>
 
   <!-- 4 Chunky 3D Pushable Quick-Action Buttons -->
   <p align="center">
@@ -28,24 +26,12 @@
 
 <br />
 
-<div id="featured-projects"></div>
+<h2 id="featured-projects">🚀 Featured Project Spotlight</h2>
 
-## 🚀 Featured Project Spotlight
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/channdraa-afk/Memony">
-        <img src="assets/card-memony.svg" width="100%" alt="Memony Card" />
-      </a>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/channdraa-afk/Stallmate">
-        <img src="assets/card-stallmate.svg" width="100%" alt="Stallmate Card" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/channdraa-afk/Memony"><img src="assets/card-memony.svg" width="49%" alt="Memony Card" /></a>&nbsp;
+  <a href="https://github.com/channdraa-afk/Stallmate"><img src="assets/card-stallmate.svg" width="49%" alt="Stallmate Card" /></a>
+</p>
 
 <br />
 
@@ -57,12 +43,10 @@
 
 <br />
 
-<div id="tech-arsenal"></div>
-
-## 🛠️ Technical Arsenal
+<h2 id="tech-arsenal">🛠️ Technical Arsenal</h2>
 
 <details open>
-<summary><b>🧠 Artificial Intelligence & Data Science</b></summary>
+<summary><b>🧠 Artificial Intelligence &amp; Data Science</b></summary>
 <br />
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -76,7 +60,7 @@
 </details>
 
 <details open>
-<summary><b>🌐 Frontend & Modern Web Engineering</b></summary>
+<summary><b>🌐 Frontend &amp; Modern Web Engineering</b></summary>
 <br />
 <p align="left">
   <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -90,7 +74,7 @@
 </details>
 
 <details open>
-<summary><b>☁️ Backend, Realtime & Cloud Infrastructure</b></summary>
+<summary><b>☁️ Backend, Realtime &amp; Cloud Infrastructure</b></summary>
 <br />
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
@@ -102,7 +86,7 @@
 </details>
 
 <details>
-<summary><b>⚙️ Development Cockpit & Desktop</b></summary>
+<summary><b>⚙️ Development Cockpit &amp; Desktop</b></summary>
 <br />
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -114,7 +98,7 @@
 
 <br />
 
-## 🤝 Open Source & Collaborations
+## 🤝 Open Source &amp; Collaborations
 
 <p align="left">
   <i>Belief in open craftsmanship and active community building. Open for collaborations on AI experiments, high-performance web systems, or developer tooling.</i>
@@ -122,24 +106,16 @@
 
 <br />
 
-## 📊 Activity & Live Metrics
+## 📊 Activity &amp; Live Metrics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=channdraa-afk&show_icons=true&theme=tokyonight&hide_border=false&border_color=2E383D&bg_color=1B272C&title_color=38BDF8&text_color=A5B4BA&icon_color=58CC02" alt="GitHub Stats" height="165" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&theme=tokyonight&hide_border=false&border_color=2E383D&background=1B272C&stroke=38BDF8&ring=58CC02&fire=FFC800&currStreakLabel=58CC02" alt="GitHub Streak" height="165" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2E383D&amp;bg_color=1B272C&amp;title_color=38BDF8&amp;text_color=A5B4BA&amp;icon_color=58CC02" alt="GitHub Stats" height="165" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2E383D&amp;background=1B272C&amp;stroke=38BDF8&amp;ring=58CC02&amp;fire=FFC800&amp;currStreakLabel=58CC02" alt="GitHub Streak" height="165" />
+</p>
 
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=channdraa-afk&layout=compact&theme=tokyonight&hide_border=false&border_color=2E383D&bg_color=1B272C&title_color=38BDF8&text_color=A5B4BA" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=channdraa-afk&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2E383D&amp;bg_color=1B272C&amp;title_color=38BDF8&amp;text_color=A5B4BA" alt="Top Languages" />
+</p>
 
 <br />
 
@@ -159,10 +135,6 @@
 
 <div align="center">
   <p><b>Let's build something extraordinary together!</b></p>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=chandradjhon@gmail.com&amp;su=Collaboration%20Inquiry%20-%20Chandra%20Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-chandradjhon%40gmail.com-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Work" />
-  </a>
-  <a href="https://github.com/channdraa-afk">
-    <img src="https://img.shields.io/badge/GitHub-channdraa--afk-2E383D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=chandradjhon@gmail.com&amp;su=Collaboration%20Inquiry%20-%20Chandra%20Portfolio" target="_blank"><img src="https://img.shields.io/badge/Gmail-chandradjhon%40gmail.com-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Work" /></a>&nbsp;
+  <a href="https://github.com/channdraa-afk"><img src="https://img.shields.io/badge/GitHub-channdraa--afk-2E383D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 </div>
