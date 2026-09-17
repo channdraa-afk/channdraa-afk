@@ -1,9 +1,9 @@
-<svg width="418" height="310" viewBox="0 0 418 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="418" height="300" viewBox="0 0 418 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&amp;display=swap');
-      .card-title { font-family: 'Nunito', sans-serif; font-weight: 900; font-size: 24px; fill: #FFFFFF; }
-      .card-sub { font-family: 'Nunito', sans-serif; font-weight: 800; font-size: 14px; fill: #CE82FF; }
+      .card-title { font-family: 'Nunito', sans-serif; font-weight: 900; font-size: 26px; fill: #FFFFFF; }
+      .card-sub { font-family: 'Nunito', sans-serif; font-weight: 800; font-size: 13.5px; fill: #CE82FF; letter-spacing: 0.5px; }
       .card-desc { font-family: 'Nunito', sans-serif; font-weight: 600; font-size: 13px; fill: #A5B4BA; }
       .pill-text { font-family: 'Nunito', sans-serif; font-weight: 800; font-size: 11px; fill: #E5E9EB; text-anchor: middle; dominant-baseline: middle; }
       .btn-text { font-family: 'Nunito', sans-serif; font-weight: 900; font-size: 14px; fill: #FFFFFF; letter-spacing: 0.5px; text-anchor: middle; dominant-baseline: middle; }
@@ -11,28 +11,21 @@
   </defs>
 
   <!-- 3D Card Base (Shadow Rim) -->
-  <rect x="2" y="8" width="414" height="298" rx="22" fill="#131F24" />
+  <rect x="2" y="8" width="414" height="288" rx="22" fill="#131F24" />
   <!-- 3D Card Front Body -->
-  <rect x="2" y="2" width="414" height="298" rx="22" fill="#1B272C" stroke="#2E383D" stroke-width="2.5" />
+  <rect x="2" y="2" width="414" height="288" rx="22" fill="#1B272C" stroke="#2E383D" stroke-width="2.5" />
 
-  <!-- Header Icon & Name -->
-  <g transform="translate(24, 24)">
-    <!-- 3D Circle Icon (Purple) -->
-    <rect x="0" y="4" width="48" height="48" rx="16" fill="#A560DB" />
-    <rect x="0" y="0" width="48" height="48" rx="16" fill="#CE82FF" />
-    <text x="24" y="28" font-size="22" text-anchor="middle" dominant-baseline="middle">🧠</text>
-    
-    <text x="62" y="24" class="card-title">Memony</text>
-    <text x="62" y="44" class="card-sub">AI Tactile Expense Ledger</text>
-  </g>
+  <!-- Clean Header Texts (Left-Aligned) -->
+  <text x="28" y="48" class="card-title">Memony</text>
+  <text x="28" y="70" class="card-sub">AI TACTILE EXPENSE LEDGER</text>
 
   <!-- Description Text -->
-  <text x="24" y="104" class="card-desc">Personal financial companion combining tactile</text>
-  <text x="24" y="124" class="card-desc">interactions with Google Gemini Multimodal OCR,</text>
-  <text x="24" y="144" class="card-desc">smart receipt memory, and installable PWA ledger.</text>
+  <text x="28" y="104" class="card-desc">Personal financial companion combining tactile</text>
+  <text x="28" y="124" class="card-desc">interactions with Google Gemini Multimodal OCR,</text>
+  <text x="28" y="144" class="card-desc">smart receipt memory, and installable PWA ledger.</text>
 
   <!-- Tech Stack Pills (Chunky Duolingo Chips) -->
-  <g transform="translate(24, 172)">
+  <g transform="translate(28, 168)">
     <!-- Chip 1 -->
     <rect x="0" y="3" width="108" height="28" rx="10" fill="#1F282D" />
     <rect x="0" y="0" width="108" height="28" rx="10" fill="#2B383F" stroke="#3B4951" stroke-width="1.5" />
@@ -55,9 +48,9 @@
   </g>
 
   <!-- Chunky 3D Pushable Button (CTA) -->
-  <g transform="translate(24, 226)">
-    <rect x="0" y="5" width="370" height="48" rx="16" fill="#A560DB" />
-    <rect x="0" y="0" width="370" height="48" rx="16" fill="#CE82FF" />
-    <text x="185" y="25" class="btn-text">EXPLORE REPOSITORY ➔</text>
+  <g transform="translate(28, 218)">
+    <rect x="0" y="5" width="362" height="48" rx="16" fill="#A560DB" />
+    <rect x="0" y="0" width="362" height="48" rx="16" fill="#CE82FF" />
+    <text x="181" y="25" class="btn-text">EXPLORE REPOSITORY ➔</text>
   </g>
 </svg>
