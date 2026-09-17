@@ -103,8 +103,9 @@ Animasi ular pemakan heatmap kontribusi GitHub diatur melalui GitHub Actions:
 | **Sesi Dual-Theme Adaptif** | Jalan 1 & Palet Everdeck | 1. Menerapkan elemen `<picture>` adaptif preferensi OS/GitHub (`prefers-color-scheme`) pada seluruh komponen.<br>2. Mengharmonisasi 4 tombol 3D dengan palet resmi Everdeck (`#10B981`, `#0EA5E9`, `#F59E0B`, `#8B5CF6`).<br>3. Merilis varian SVG Dark (Everdeck Dark Slate `#18191E`) & Light (Crisp White `#FFFFFF`). | ✅ Tuntas Sempurna |
 | **Sesi Pemurnian Visual** | Pembersihan Badge & Self-Rank | 1. Menghapus badge tema perantara yang mengganggu keindahan header.<br>2. Mengeliminasi lingkaran rating "A+" via `hide_rank=true` agar profil berfokus murni pada data kontribusi nyata. | ✅ Tuntas Sempurna |
 | **Sesi Everdeck Companion** | Chibi Violet Companion Card | Menggantikan kartu stats kosong dengan Custom Tactile Companion Card bergambar Chibi Violet Evergarden membawa surat lilin berapi (aset dari Everdeck) yang bersanding simetris (`495x195`, `height="165"`) dengan GitHub Streak Stats. Memanfaatkan Base64 data URI embedding agar lolos proteksi sub-resource SVG di browser & GitHub Camo. | ✅ Tuntas Sempurna |
+| **Sesi Resolusi Bug Mojibake** | Audit Menyeluruh & Encoding Fix | 1. Memperbaiki double UTF-8 mojibake (`ðŸ”¥`, `âœ¨`, `âš”ï¸ `) menggunakan XML Numeric Character Entities (`&#128293;`, `&#10024;`, `&#9876;&#65039;`) yang 100% kebal codepage OS.<br>2. Mengatasi text overflow dengan memperlebar chip emerald (156px) dan sky (138px) sehingga padding horizontal lega.<br>3. Menyelaraskan teks secara optik ke tengah permukaan tombol fisik (`dominant-baseline: central`, `y="15"`).<br>4. Menambahkan deklarasi namespace `xmlns:xlink` dan `xlink:href` pada elemen `<image>`. | ✅ Tuntas Sempurna |
 
-**Status Terkini**: Profil tampil bersih, seimbang dan simetris, berkarakter dengan maskot Chibi Violet Evergarden, adaptif sempurna terhadap tema terang & gelap, serta siap produksi 100%.
+**Status Terkini**: Profil tampil bersih, bebas bug mojibake, seimbang dan simetris, berkarakter dengan maskot Chibi Violet Evergarden, adaptif sempurna terhadap tema terang & gelap, serta siap produksi 100%.
 
 ---
 
