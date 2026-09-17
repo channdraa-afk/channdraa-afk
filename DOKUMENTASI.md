@@ -72,6 +72,7 @@ Animasi ular pemakan heatmap kontribusi GitHub diatur melalui GitHub Actions:
 7. `btn-contact.svg`: Tombol taktil amber Everdeck 3D (`📫 CONTACT ME`).
 8. `btn-repos.svg`: Tombol taktil ungu Everdeck 3D (`🔥 ALL REPOSITORIES`).
 9. `card-companion-dark.svg` & `card-companion-light.svg`: Kartu companion taktil simetris (`495x195`) bersanding dengan GitHub Streak Counter. Menampilkan Chibi Violet Evergarden (membawa surat lilin merah berapi dari Everdeck) dengan Base64 embedded URI, status flame aktif, dan kutipan dedikasi kode.
+10. `card-englishclub-dark.svg` & `card-englishclub-light.svg`: Kartu showcase proyek unggulan English Club — SMEGA Attendance & Community Portal (Dual-Theme, tombol Amber Gold).
 
 ### C. Integrasi Pihak Ketiga & API Endpoints
 1. **GitHub Readme Stats Mirror (Dual-Theme Adaptive & Clean Metrics)**:
@@ -105,8 +106,9 @@ Animasi ular pemakan heatmap kontribusi GitHub diatur melalui GitHub Actions:
 | **Sesi Everdeck Companion** | Chibi Violet Companion Card | Menggantikan kartu stats kosong dengan Custom Tactile Companion Card bergambar Chibi Violet Evergarden membawa surat lilin berapi (aset dari Everdeck) yang bersanding simetris (`495x195`, `height="165"`) dengan GitHub Streak Stats. Memanfaatkan Base64 data URI embedding agar lolos proteksi sub-resource SVG di browser & GitHub Camo. | ✅ Tuntas Sempurna |
 | **Sesi Resolusi Bug Mojibake** | Audit Menyeluruh & Encoding Fix | 1. Memperbaiki double UTF-8 mojibake (`ðŸ”¥`, `âœ¨`, `âš”ï¸ `) menggunakan XML Numeric Character Entities (`&#128293;`, `&#10024;`, `&#129309;`) yang 100% kebal codepage OS.<br>2. Menghapus kotak background badge "EVERDECK COMPANION" yang kaku dan menggantinya dengan clean editorial typography berona amber emas langsung di atas kartu.<br>3. Mengganti chip "Level 4 Emerald" dengan chip fungsional "🤝 Open for Collab" (150px) dan menyederhanakan chip pertama menjadi "✨ Streak: Active" (144px).<br>4. Menyelaraskan teks secara optik ke tengah permukaan tombol fisik (`dominant-baseline: central`, `y="15"`). | ✅ Tuntas Sempurna |
 | **Sesi Interaktivitas Kolaborasi** | Link Langsung Gmail Web Compose | Menghubungkan kartu Everdeck Companion secara interaktif dengan direct Gmail Web Compose (`chandradjhon@gmail.com`) via wrapper `<a>` di `README.md` tanpa glitch underline, sehingga sekali klik langsung membuka draft email kolaborasi. | ✅ Tuntas Sempurna |
+| **Sesi Integrasi English Club** | Featured Showcase Row 2 | Merilis kartu showcase taktil 3D untuk proyek English Club (SMEGA Attendance & Community Portal) dengan tombol Amber Gold (`#F59E0B`), 4 chip tech stack (React 19, Supabase, Tailwind, Web Audio), serta integrasi baris ke-2 di `README.md`. | ✅ Tuntas Sempurna |
 
-**Status Terkini**: Profil tampil bersih, bebas bug mojibake, badge minimalis tanpa kotak kotor, kartu companion terhubung interaktif ke email kolaborasi, berkarakter dengan maskot Chibi Violet Evergarden, adaptif sempurna terhadap tema terang & gelap, serta siap produksi 100%.
+**Status Terkini**: Profil tampil bersih, bebas bug mojibake, badge minimalis tanpa kotak kotor, Featured Spotlight menampung 3 proyek unggulan (Memony, Stallmate, English Club), kartu companion terhubung interaktif ke email kolaborasi, berkarakter dengan maskot Chibi Violet Evergarden, adaptif sempurna terhadap tema terang & gelap, serta siap produksi 100%.
 
 ---
 

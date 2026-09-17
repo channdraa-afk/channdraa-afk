@@ -1,0 +1,56 @@
+<svg width="418" height="300" viewBox="0 0 418 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&amp;display=swap');
+      .card-title { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 900; font-size: 26px; fill: #0F172A; }
+      .card-sub { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 800; font-size: 13.5px; fill: #D97706; letter-spacing: 0.5px; }
+      .card-desc { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 600; font-size: 13px; fill: #64748B; }
+      .pill-text { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 800; font-size: 11px; fill: #334155; text-anchor: middle; dominant-baseline: middle; }
+      .btn-text { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 900; font-size: 14px; fill: #FFFFFF; letter-spacing: 0.5px; text-anchor: middle; dominant-baseline: middle; }
+    </style>
+  </defs>
+
+  <!-- 3D Card Base (Shadow Rim) -->
+  <rect x="2" y="8" width="414" height="288" rx="22" fill="#CBD5E1" />
+  <!-- 3D Card Front Body (Everdeck Clean Light) -->
+  <rect x="2" y="2" width="414" height="288" rx="22" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2.5" />
+
+  <!-- Clean Header Texts -->
+  <text x="28" y="48" class="card-title">English Club</text>
+  <text x="28" y="70" class="card-sub">SMEGA ATTENDANCE &amp; COMMUNITY PORTAL</text>
+
+  <!-- Description Text -->
+  <text x="28" y="104" class="card-desc">Mobile-first tactile attendance portal for SMEGA English Club.</text>
+  <text x="28" y="124" class="card-desc">Physical whiteboard token validation, automated grade recaps</text>
+  <text x="28" y="144" class="card-desc">for Angkatan 21 &amp; 20, and next agenda community voting.</text>
+
+  <!-- Tech Stack Pills (Chunky Light Chips) -->
+  <g transform="translate(28, 168)">
+    <!-- Chip 1 -->
+    <rect x="0" y="3" width="80" height="28" rx="10" fill="#E2E8F0" />
+    <rect x="0" y="0" width="80" height="28" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <text x="40" y="14" class="pill-text">React 19</text>
+
+    <!-- Chip 2 -->
+    <rect x="88" y="3" width="90" height="28" rx="10" fill="#E2E8F0" />
+    <rect x="88" y="0" width="90" height="28" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <text x="133" y="14" class="pill-text">Supabase</text>
+
+    <!-- Chip 3 -->
+    <rect x="186" y="3" width="76" height="28" rx="10" fill="#E2E8F0" />
+    <rect x="186" y="0" width="76" height="28" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <text x="224" y="14" class="pill-text">Tailwind</text>
+
+    <!-- Chip 4 -->
+    <rect x="270" y="3" width="94" height="28" rx="10" fill="#E2E8F0" />
+    <rect x="270" y="0" width="94" height="28" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <text x="317" y="14" class="pill-text">Web Audio</text>
+  </g>
+
+  <!-- Chunky 3D Pushable Button (Everdeck Amber Gold) -->
+  <g transform="translate(28, 218)">
+    <rect x="0" y="5" width="362" height="48" rx="16" fill="#D97706" />
+    <rect x="0" y="0" width="362" height="48" rx="16" fill="#F59E0B" />
+    <text x="181" y="25" class="btn-text">EXPLORE REPOSITORY &#10132;</text>
+  </g>
+</svg>
