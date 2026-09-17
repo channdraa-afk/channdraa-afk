@@ -1,0 +1,46 @@
+<svg width="860" height="235" viewBox="0 0 860 235" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&amp;display=swap');
+      .quest-title-purple { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 900; font-size: 16px; fill: #7C3AED; letter-spacing: 0.3px; }
+      .quest-title-yellow { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 900; font-size: 16px; fill: #D97706; letter-spacing: 0.3px; }
+      .quest-title-blue { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 900; font-size: 16px; fill: #0284C7; letter-spacing: 0.3px; }
+      .quest-desc { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 700; font-size: 13px; fill: #64748B; }
+    </style>
+  </defs>
+
+  <!-- 3D Card Base (Shadow Rim) -->
+  <rect x="2" y="8" width="856" height="223" rx="22" fill="#CBD5E1" />
+  <!-- 3D Card Front Body (Everdeck Clean Light) -->
+  <rect x="2" y="2" width="856" height="223" rx="22" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2.5" />
+
+  <!-- Quest Row 1: Deep Learning & Tensors -->
+  <g transform="translate(36, 18)">
+    <text x="0" y="20" class="quest-title-purple">Deep Learning &amp; Neural Architectures</text>
+    <text x="0" y="42" class="quest-desc">Tensor computations, multi-layer representations, and deep learning foundations.</text>
+  </g>
+
+  <!-- Divider Line 1 -->
+  <line x1="36" y1="78" x2="824" y2="78" stroke="#E2E8F0" stroke-width="1.5" stroke-dasharray="4 4" />
+
+  <!-- Quest Row 2: LLMs & Multimodal AI -->
+  <g transform="translate(36, 88)">
+    <text x="0" y="20" class="quest-title-yellow">Large Language Models &amp; Multimodal AI</text>
+    <text x="0" y="42" class="quest-desc">Google Gemini Multimodal Vision, prompt engineering, function calling &amp; agentic workflows.</text>
+  </g>
+
+  <!-- Divider Line 2 -->
+  <line x1="36" y1="148" x2="824" y2="148" stroke="#E2E8F0" stroke-width="1.5" stroke-dasharray="4 4" />
+
+  <!-- Quest Row 3: Systems & Data Science -->
+  <g transform="translate(36, 158)">
+    <text x="0" y="20" class="quest-title-blue">Applied Systems &amp; Data Science</text>
+    <text x="0" y="42" class="quest-desc">Exploratory Data Analysis (EDA), vector similarity, and resilient fullstack systems orchestration.</text>
+  </g>
+
+  <!-- Progress Bar (Everdeck Style XP Bar) -->
+  <g transform="translate(36, 214)">
+    <rect x="0" y="0" width="788" height="8" rx="4" fill="#E2E8F0" />
+    <rect x="0" y="0" width="580" height="8" rx="4" fill="#10B981" />
+  </g>
+</svg>

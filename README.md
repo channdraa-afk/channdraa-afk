@@ -1,9 +1,14 @@
 <div align="center">
 
-  <!-- Duolingo Tactile Hero Header (Clean Cache-Busted) -->
-  <a href="https://github.com/channdraa-afk"><img src="assets/header-clean.svg" width="100%" alt="Chandra's Profile Header" /></a>
+  <!-- Everdeck Tactile Hero Header (Adaptive Dual-Theme) -->
+  <a href="https://github.com/channdraa-afk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" /><img src="assets/header-dark.svg" width="100%" alt="Chandra's Profile Header" /></picture></a>
 
-  <!-- 4 Chunky 3D Pushable Quick-Action Buttons -->
+  <!-- Theme Mode Indicator & Quick Switcher -->
+  <p align="center">
+    <a href="https://github.com/settings/appearance" target="_blank"><img src="https://img.shields.io/badge/Theme-System%20Adaptive%20(Dark%20%2F%20Light)-10B981?style=flat-square&logo=github&logoColor=white" alt="Theme Selector" /></a>
+  </p>
+
+  <!-- 4 Chunky 3D Pushable Quick-Action Buttons (Everdeck Palette) -->
   <p align="center">
     <a href="#featured-projects"><img src="assets/btn-projects.svg" height="42" alt="View Projects" /></a>&nbsp;
     <a href="#tech-arsenal"><img src="assets/btn-techstack.svg" height="42" alt="Tech Arsenal" /></a>&nbsp;
@@ -29,16 +34,20 @@
 <h2 id="featured-projects">🚀 Featured Project Spotlight</h2>
 
 <p align="center">
-  <a href="https://github.com/channdraa-afk/Memony"><img src="assets/card-memony.svg" width="49%" alt="Memony Card" /></a>&nbsp;
-  <a href="https://github.com/channdraa-afk/Stallmate"><img src="assets/card-stallmate.svg" width="49%" alt="Stallmate Card" /></a>
+  <a href="https://github.com/channdraa-afk/Memony"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-memony-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/card-memony-light.svg" /><img src="assets/card-memony-dark.svg" width="49%" alt="Memony Card" /></picture></a>&nbsp;
+  <a href="https://github.com/channdraa-afk/Stallmate"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-stallmate-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/card-stallmate-light.svg" /><img src="assets/card-stallmate-dark.svg" width="49%" alt="Stallmate Card" /></picture></a>
 </p>
 
 <br />
 
-## 🧠 AI & Intelligent Systems Horizon
+## 🧠 AI &amp; Intelligent Systems Horizon
 
 <div align="center">
-  <img src="assets/ai-spectrum.svg" width="100%" alt="AI Horizon Quest" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ai-spectrum-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/ai-spectrum-light.svg" />
+    <img src="assets/ai-spectrum-dark.svg" width="100%" alt="AI Horizon Quest" />
+  </picture>
 </div>
 
 <br />
@@ -109,12 +118,24 @@
 ## 📊 Activity &amp; Live Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2E383D&amp;bg_color=1B272C&amp;title_color=38BDF8&amp;text_color=A5B4BA&amp;icon_color=58CC02" alt="GitHub Stats" height="165" />&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2E383D&amp;background=1B272C&amp;stroke=38BDF8&amp;ring=58CC02&amp;fire=FFC800&amp;currStreakLabel=58CC02" alt="GitHub Streak" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;bg_color=18191E&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=10B981" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=default&amp;hide_border=false&amp;border_color=E2E8F0&amp;bg_color=FFFFFF&amp;title_color=0284C7&amp;text_color=475569&amp;icon_color=059669" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=channdraa-afk&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;bg_color=18191E&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=10B981" alt="GitHub Stats" height="165" />
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;background=18191E&amp;stroke=38BDF8&amp;ring=10B981&amp;fire=F59E0B&amp;currStreakLabel=10B981" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;theme=default&amp;hide_border=false&amp;border_color=E2E8F0&amp;background=FFFFFF&amp;stroke=0284C7&amp;ring=059669&amp;fire=D97706&amp;currStreakLabel=059669" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;background=18191E&amp;stroke=38BDF8&amp;ring=10B981&amp;fire=F59E0B&amp;currStreakLabel=10B981" alt="GitHub Streak" height="165" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=channdraa-afk&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2E383D&amp;bg_color=1B272C&amp;title_color=38BDF8&amp;text_color=A5B4BA" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=channdraa-afk&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;bg_color=18191E&amp;title_color=38BDF8&amp;text_color=94A3B8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=channdraa-afk&amp;layout=compact&amp;theme=default&amp;hide_border=false&amp;border_color=E2E8F0&amp;bg_color=FFFFFF&amp;title_color=0284C7&amp;text_color=475569" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=channdraa-afk&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;bg_color=18191E&amp;title_color=38BDF8&amp;text_color=94A3B8" alt="Top Languages" />
+  </picture>
 </p>
 
 <br />

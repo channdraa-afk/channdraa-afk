@@ -1,0 +1,25 @@
+<svg width="860" height="120" viewBox="0 0 860 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&amp;display=swap');
+      .duo-title { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 900; font-size: 32px; fill: #FFFFFF; }
+      .duo-sub { font-family: 'Nunito', -apple-system, sans-serif; font-weight: 700; font-size: 15px; fill: #94A3B8; }
+    </style>
+  </defs>
+
+  <!-- 3D Card Base (Shadow Rim) -->
+  <rect x="2" y="8" width="856" height="108" rx="24" fill="#121316" />
+  <!-- 3D Card Front Body (Everdeck Dark Slate) -->
+  <rect x="2" y="2" width="856" height="108" rx="24" fill="#18191E" stroke="#2D3139" stroke-width="2.5" />
+
+  <!-- Avatar Circle Icon (Everdeck Sky) -->
+  <g transform="translate(36, 26)">
+    <rect x="0" y="5" width="64" height="64" rx="20" fill="#0284C7" />
+    <rect x="0" y="0" width="64" height="64" rx="20" fill="#0EA5E9" stroke="#FFFFFF" stroke-width="2" />
+    <text x="32" y="38" font-family="'Nunito', -apple-system, sans-serif" font-weight="900" font-size="28" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+  </g>
+
+  <!-- Greetings & Title -->
+  <text x="120" y="58" class="duo-title">Hi, I'm Chandra! 👋</text>
+  <text x="120" y="84" class="duo-sub">Software Engineering Student (RPL) • AI, ML &amp; Systems Pioneer</text>
+</svg>
