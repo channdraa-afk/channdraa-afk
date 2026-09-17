@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Duolingo Tactile Hero Header -->
+  <!-- Duolingo Tactile Hero Header (Clean Cache-Busted) -->
   <a href="https://github.com/channdraa-afk">
-    <img src="assets/header-duo.svg" width="100%" alt="Chandra's Profile Header" />
+    <img src="assets/header-clean.svg" width="100%" alt="Chandra's Profile Header" />
   </a>
 
   <!-- 4 Chunky 3D Pushable Quick-Action Buttons -->
