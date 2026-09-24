@@ -118,9 +118,9 @@
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=chandradjhon@gmail.com&amp;su=Collaboration%20Inquiry%20-%20Chandra%20Portfolio" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-companion-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/card-companion-light.svg" /><img src="assets/card-companion-dark.svg" height="165" alt="Everdeck Companion" /></picture></a>&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;background=18191E&amp;stroke=38BDF8&amp;ring=10B981&amp;fire=F59E0B&amp;currStreakLabel=10B981" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;theme=default&amp;hide_border=false&amp;border_color=E2E8F0&amp;background=FFFFFF&amp;stroke=0284C7&amp;ring=059669&amp;fire=D97706&amp;currStreakLabel=059669" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;background=18191E&amp;stroke=38BDF8&amp;ring=10B981&amp;fire=F59E0B&amp;currStreakLabel=10B981" alt="GitHub Streak" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;timezone=Asia%2FJakarta&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;background=18191E&amp;stroke=38BDF8&amp;ring=10B981&amp;fire=F59E0B&amp;currStreakLabel=10B981" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;timezone=Asia%2FJakarta&amp;theme=default&amp;hide_border=false&amp;border_color=E2E8F0&amp;background=FFFFFF&amp;stroke=0284C7&amp;ring=059669&amp;fire=D97706&amp;currStreakLabel=059669" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=channdraa-afk&amp;timezone=Asia%2FJakarta&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=2D3139&amp;background=18191E&amp;stroke=38BDF8&amp;ring=10B981&amp;fire=F59E0B&amp;currStreakLabel=10B981" alt="GitHub Streak" height="165" />
   </picture>
 </p>
 
