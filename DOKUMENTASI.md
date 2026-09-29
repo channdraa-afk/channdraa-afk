@@ -73,6 +73,7 @@ Animasi ular pemakan heatmap kontribusi GitHub diatur melalui GitHub Actions:
 8. `btn-repos.svg`: Tombol taktil ungu Everdeck 3D (`🔥 ALL REPOSITORIES`).
 9. `card-companion-dark.svg` & `card-companion-light.svg`: Kartu companion taktil simetris (`495x195`) bersanding dengan GitHub Streak Counter. Menampilkan Chibi Violet Evergarden (membawa surat lilin merah berapi dari Everdeck) dengan Base64 embedded URI, status flame aktif, dan kutipan dedikasi kode.
 10. `card-englishclub-dark.svg` & `card-englishclub-light.svg`: Kartu showcase proyek unggulan English Club — SMEGA Attendance & Community Portal (Dual-Theme, tombol Amber Gold).
+11. `card-anideck-dark.svg` & `card-anideck-light.svg`: Kartu showcase proyek unggulan Anideck — Local Anime & MPV IPC Cockpit (Dual-Theme, tombol Sky Blue `#0EA5E9` / `#0284C7`, melengkapi Grid 2×2).
 
 ### C. Integrasi Pihak Ketiga & API Endpoints
 1. **GitHub Readme Stats Mirror (Dual-Theme Adaptive & Clean Metrics)**:
@@ -108,8 +109,9 @@ Animasi ular pemakan heatmap kontribusi GitHub diatur melalui GitHub Actions:
 | **Sesi Interaktivitas Kolaborasi** | Link Langsung Gmail Web Compose | Menghubungkan kartu Everdeck Companion secara interaktif dengan direct Gmail Web Compose (`chandradjhon@gmail.com`) via wrapper `<a>` di `README.md` tanpa glitch underline, sehingga sekali klik langsung membuka draft email kolaborasi. | ✅ Tuntas Sempurna |
 | **Sesi Integrasi English Club** | Featured Showcase Row 2 | Merilis kartu showcase taktil 3D untuk proyek English Club (SMEGA Attendance & Community Portal) dengan tombol Amber Gold (`#F59E0B`), 4 chip tech stack (React 19, Supabase, Tailwind, Web Audio), serta integrasi baris ke-2 di `README.md`. | ✅ Tuntas Sempurna |
 | **Sesi Kalibrasi Timezone Streak** | Sinkronisasi Zona Waktu WIB | Menambahkan parameter `timezone=Asia/Jakarta` pada URL `github-readme-streak-stats` di `README.md`. Mengeliminasi kesalahan perhitungan UTC pada pergantian hari WIB, menyinkronkan counter dengan 19 hari streak riil GitHub, dan me-refresh cache GitHub Camo. | ✅ Tuntas Sempurna |
+| **Sesi Integrasi Anideck (Grid 2×2)** | Featured Showcase Card #4 | Merilis `card-anideck-dark.svg` & `card-anideck-light.svg` dengan tombol 3D Everdeck Sky Blue (`#0EA5E9` / `#0284C7`), 4 chip terkalibrasi rata kanan 362px (`React 19`, `MPV IPC Pipe`, `Node Bridge`, `Jikan API`), serta menempatkannya di sebelah kanan `English Club` pada `README.md` untuk menyempurnakan Grid 2×2 (4 proyek & 4 warna utama). | ✅ Tuntas Sempurna |
 
-**Status Terkini**: Profil tampil bersih, bebas bug mojibake, badge minimalis tanpa kotak kotor, Featured Spotlight menampung 3 proyek unggulan (Memony, Stallmate, English Club), kartu companion terhubung interaktif ke email kolaborasi, berkarakter dengan maskot Chibi Violet Evergarden, adaptif sempurna terhadap tema terang & gelap, streak tersinkronisasi presisi zona WIB (19 hari aktif), serta siap produksi 100%.
+**Status Terkini**: Profil tampil bersih, bebas bug mojibake, badge minimalis tanpa kotak kotor, Featured Spotlight menampung **4 proyek unggulan dalam Grid 2×2 simetris** (`Memony`, `Stallmate`, `English Club`, `Anideck`) yang mewakili ke-4 warna tombol utama (`Violet`, `Emerald`, `Amber Gold`, `Sky Blue`), kartu companion terhubung interaktif ke email kolaborasi, adaptif sempurna terhadap tema terang & gelap, serta siap produksi 100%.
 
 ---
 

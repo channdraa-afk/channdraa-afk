@@ -33,7 +33,8 @@
   <a href="https://github.com/channdraa-afk/Stallmate"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-stallmate-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/card-stallmate-light.svg" /><img src="assets/card-stallmate-dark.svg" width="49%" alt="Stallmate Card" /></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/channdraa-afk/English-Club"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-englishclub-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/card-englishclub-light.svg" /><img src="assets/card-englishclub-dark.svg" width="49%" alt="English Club Card" /></picture></a>
+  <a href="https://github.com/channdraa-afk/English-Club"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-englishclub-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/card-englishclub-light.svg" /><img src="assets/card-englishclub-dark.svg" width="49%" alt="English Club Card" /></picture></a>&nbsp;
+  <a href="https://github.com/channdraa-afk/Anideck"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-anideck-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/card-anideck-light.svg" /><img src="assets/card-anideck-dark.svg" width="49%" alt="Anideck Card" /></picture></a>
 </p>
 
 <br />
