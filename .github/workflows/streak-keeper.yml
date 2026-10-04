@@ -1,0 +1,43 @@
+name: Automated Daily Streak Keeper
+
+on:
+  schedule:
+    # Berjalan otomatis setiap hari pada pukul 00:05 UTC (07:05 WIB)
+    - cron: "5 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  keep-streak:
+    name: Keep Chandra's GitHub Streak Alive
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Update Daily Streak Log
+        run: |
+          echo "🌸 Memperbarui catatan harian streak Chandra..."
+          mkdir -p .github/activity
+          DATE_WIB=$(TZ="Asia/Jakarta" date "+%Y-%m-%d %H:%M:%S WIB")
+          echo "{\"last_active\": \"$DATE_WIB\", \"developer\": \"Chandra Darmawan Jhon (@channdraa-afk)\", \"status\": \"Active & Building\"}" > .github/activity/streak-heartbeat.json
+          
+          # Perbarui cache-buster pada URL streak di README.md agar gambar SVG langsung ter-refresh
+          TIMESTAMP=$(date +%s)
+          sed -i -E "s/&v=[0-9]+/&v=$TIMESTAMP/g" README.md || true
+
+      - name: Commit and Push Heartbeat
+        run: |
+          git config --global user.name "Chandra Darmawan Jhon"
+          git config --global user.email "iamchan761@gmail.com"
+          git add .github/activity/streak-heartbeat.json README.md
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan."
+          else
+            git commit -m "chore(streak): daily pulse heartbeat and streak stats cache-refresh [skip ci]"
+            git push origin main
+          fi
